@@ -23,3 +23,6 @@ I once lost a bet and ended up building a restaurant website in WordPress. 🍽�
 Chess Club member who loves to talk strategy over a game! ♟️
 Currently fooling the algorithm on my other Instagram by following only tech accounts! 🤖
 
+📫 How to Reach Me:
+LinkedIn: https://www.linkedin.com/in/shubhamkasar1919/
+Email: shubhamkasar24@yahoo.com
