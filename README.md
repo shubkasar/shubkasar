@@ -23,3 +23,4 @@ I once lost a bet and ended up building a restaurant website in WordPress. 🍽�
 Chess Club member who loves to talk strategy over a game! ♟️
 Currently fooling the algorithm on my other Instagram by following only tech accounts! 🤖
 
+![WhatsApp Image 2024-09-09 at 23 56 54_9aa63a9c](https://github.com/user-attachments/assets/059de23d-2f2f-4292-837d-b44342b799ce)
