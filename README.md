@@ -1,6 +1,5 @@
 ## Hello, World! I am Shubham. 👋
 
-<!--
 🚀 Full Stack Developer | 🌐 Web3 Enthusiast | 🧠 Problem Solver
 
 🛠 Tech Stack:
@@ -23,4 +22,4 @@ Savitribai Phule Pune University: Bachelor of Engineering in Computer Engineerin
 I once lost a bet and ended up building a restaurant website in WordPress. 🍽️
 Chess Club member who loves to talk strategy over a game! ♟️
 Currently fooling the algorithm on my other Instagram by following only tech accounts! 🤖
--->
+
